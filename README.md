@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amudhan-Dvlpr
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development & love UI,UX design
 - 🌱 I’m currently learning Linux and Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
