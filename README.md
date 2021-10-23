@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Amudhan-Dvlpr
-- 👀 I’m interested in Web Development & love UI,UX design
-- 🌱 I’m currently learning Linux and Java
+- 👋 Hi, I’m Aru Maakadalamudhan
+- 👀 He is who interested in Web Development & love UI,UX design
+- 🌱 He is currently learning Linux and Java
 - 📫 How to reach me ...
 
 <!---
